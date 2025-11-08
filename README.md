@@ -16,3 +16,9 @@ A mini command-line Python project to securely store and retrieve passwords usin
 1. Clone this repo:
    ```bash
    git clone https://github.com/1prinnce/Password-Manager.git
+
+---
+
+## 🎥 Demo (Preview)
+![Demo](https://github.com/1prinnce/Password-Manager/blob/main/project%20recording.gif)
+
