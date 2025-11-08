@@ -46,14 +46,4 @@ A mini command-line Python project to securely store and retrieve passwords usin
 
 ---
 
-💡 **Tip:**
-This demo shows the complete CLI workflow — from creating a master password to saving and retrieving credentials.
-You can extend this project by adding:
-
-* Password encryption with the `cryptography` library
-* A GUI using `tkinter` or `PyQt`
-* Integration with a secure database (SQLite / MongoDB)
-
----
-
 🚀 **Made with ❤️ by [Prince Yadav](https://github.com/1prinnce)**
