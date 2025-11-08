@@ -40,7 +40,7 @@ A mini command-line Python project to securely store and retrieve passwords usin
 
 ---
 
-## 🎥 Demo (Preview)
+## 🎥 (Preview)
 
 ![Demo](https://github.com/1prinnce/Password-Manager/blob/main/project%20recording.gif)
 
